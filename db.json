@@ -1,0 +1,78 @@
+{
+    "product": [
+      {
+        "id": "1",
+        "name": "Bánh Tét",
+        "image": "https://i.pinimg.com/564x/24/a4/bc/24a4bcd116db8abb6399c6b68fd4e117.jpg",
+        "price": 15600,
+        "describe": "1 món bánh truyền thống của Việt Nam"
+      },
+      {
+        "id": "2",
+        "name": "Bánh Mì",
+        "image": "https://i.pinimg.com/564x/56/33/72/563372b65c35667681c94f083154e68a.jpg",
+        "price": 15600,
+        "describe": "1 món bánh truyền thống của Việt Nam"
+      },
+      {
+        "id": "4",
+        "name": "Bún Đậu Mắm Tôm",
+        "image": "https://i.pinimg.com/736x/ab/8f/d4/ab8fd421b21a392fe9f0b1b0f8c3986e.jpg",
+        "price": 15600,
+        "describe":"1 món bánh truyền thống của Việt Nam"
+      },
+      {
+        "id": "5",
+        "name": "Bún Chả Hà Nội",
+        "image": "https://i.pinimg.com/736x/88/53/a9/8853a91e26bbeef1843cab1d2664ae6b.jpg",
+        "price": "22220",
+        "describe":"1 món bánh truyền thống của Việt Nam"
+      }
+    ],
+    "menus": [
+      {
+        "id": "1",
+        "label": "Thống kê",
+        "path": "/admin",
+        "icon": "<svg className={bi}><use xlinkHref={#house-fill} /></svg>"
+      },
+      {
+        "id": "2",
+        "label": "Sản phẩm",
+        "path": "/admin/product",
+        "icon": "<svg className={bi}><use xlinkHref={#house-fill} /></svg>"
+      }
+    ],
+    "users": [
+      {
+        "email": "hoankb4@gmail.com",
+        "password": "123",
+        "id": 1
+      },
+      {
+        "email": "dfadsad@gmail.com",
+        "password": "123",
+        "id": 2
+      },
+      {
+        "email": "Tuyevoivl@gmail.com",
+        "password": "123",
+        "id": 3
+      },
+      {
+        "email": "register@gmail.com",
+        "password": "$2a$10$c2Tz598fIhkd4xi1QodIleH1UgXeeotDNrGzNO4b9mhMw6xdC792.",
+        "id": 4
+      },
+      {
+        "email": "hainam@gmail.com",
+        "password": "$2a$10$04kv3uSL1JqpPr4k7/dGA.1HMbS0UaFEla3U9oN8jbq97KCJdMCRG",
+        "id": 5
+      },
+      {
+        "email": "phamchi111@gmail.com",
+        "password": "$2a$10$AKX5qsdkZzRXAMDwvLR56eMqo5QSE9.N4ZeL8QiubQSnoxh3.djvi",
+        "id": 6
+      }
+    ]
+  }
